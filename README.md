@@ -1,6 +1,7 @@
 # covid_19_web_SimpleHttpServer_prorotype
 Prototyping heatmap web work
-<img src="screenshot.png" width="100">
+
+<img src="screenshot.png" width="400">
 
 ![screenshot](screenshot.png)
 
